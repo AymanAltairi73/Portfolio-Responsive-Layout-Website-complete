@@ -8,8 +8,8 @@
 
 /*===== Colores =====*/
 :root{
-  --first-color: #4070F4;
-  --second-color: #0E2431;
+  --first-color: #137c8f;
+  --second-color: #0d1b24;
 }
 
 /*===== Fuente y tipografia =====*/
@@ -116,7 +116,7 @@ img{
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background-color: #fff;
+  background-color: #fffcfc;
   box-shadow: 0 1px 4px rgba(146,161,176,.15);
 }
 
@@ -359,7 +359,7 @@ img{
 }
 .footer__icon{
   font-size: 1.5rem;
-  color: #fff;
+  color: #5fb9cf;
   margin: 0 var(--mb-2)
 }
 
